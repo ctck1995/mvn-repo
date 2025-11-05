@@ -3,10 +3,10 @@
   <groupId>com.github.ctck1995</groupId>
   <artifactId>ml-arq</artifactId>
   <versioning>
-    <release>1.0-RELEASE</release>
+    <release>1.1-RELEASE</release>
     <versions>
-      <version>1.0-RELEASE</version>
+      <version>1.1-RELEASE</version>
     </versions>
-    <lastUpdated>20240914090831</lastUpdated>
+    <lastUpdated>20251105034938</lastUpdated>
   </versioning>
 </metadata>
